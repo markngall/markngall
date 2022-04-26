@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @markngall
-- 👀 I’m interested in applying my programming skills and knowledge of machine learning to financial problems!
+- 👀 I’m interested in applying my programming skills and knowledge of machine learning to interesting problems!
 - 🌱 I’m currently working on creating intelligent bots for my C++ trading game!
 
 <!---
